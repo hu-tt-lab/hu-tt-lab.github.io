@@ -1,6 +1,8 @@
+---
 layout: page
 title: "TT-Lab"
 permalink: //
+---
 
 # Welcome to TT-LAB!!
 
