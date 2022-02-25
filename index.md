@@ -1,6 +1,6 @@
 layout: page
 title: "TT-Lab"
-permalink: /
+permalink: //
 
 # Welcome to TT-LAB!!
 
