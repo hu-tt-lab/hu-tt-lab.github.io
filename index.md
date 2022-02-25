@@ -1,8 +1,8 @@
 layout: page
-title: "TEST"
-permalink: /test/
+title: "TT-Lab"
+permalink: /
 
-# Test
+# Welcome to TT-LAB!!
 
 How does this look like?
 
